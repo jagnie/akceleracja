@@ -1,0 +1,12 @@
+# Przykladowy stan poczatkowy preta
+# Pierwsza linia z danymi: liczba segmentow N
+# Dalej: [nr segmentu] [temperatura], segmenty od 0 do N-1, reszta = 0
+# Segmenty 0 i N-1 to brzegi o stalej temperaturze.
+
+20
+
+0   100    # lewy koniec stale goracy (np. w ogniu)
+8   50
+9   80
+10  80
+11  50
